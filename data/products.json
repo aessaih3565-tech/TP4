@@ -1,0 +1,12 @@
+[
+  { "id": 10, "name": "Laptop", "category": "Informatique", "price": 8500, "stock": 8 },
+  { "id": 11, "name": "Smartphone", "category": "Informatique", "price": 4200, "stock": 15 },
+  { "id": 12, "name": "Écran", "category": "Informatique", "price": 2200, "stock": 10 },
+  { "id": 13, "name": "Aspirateur", "category": "Maison", "price": 1800, "stock": 7 },
+  { "id": 14, "name": "Tablette", "category": "Maison", "price": 950, "stock": 12 },
+  { "id": 15, "name": "Vélo", "category": "Sport", "price": 6200, "stock": 6 },
+  { "id": 16, "name": "Tapis de yoga", "category": "Sport", "price": 350, "stock": 20 },
+  { "id": 17, "name": "Chargeur USB", "category": "Accessoires", "price": 150, "stock": 30 },
+  { "id": 18, "name": "Casque Bluetooth", "category": "Audio", "price": 800, "stock": 16 },
+  { "id": 19, "name": "Trampoline", "category": "Maison", "price": 3500, "stock": 4 }
+]
